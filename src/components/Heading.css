@@ -1,0 +1,12 @@
+@keyframes scrollText {
+    0% {
+      transform: translateX(100%); /* Start from the right */
+    }
+    10% {
+      transform: translateX(100%); /* Stay static for a while */
+    }
+    100% {
+      transform: translateX(-100%); /* Scroll to the left */
+    }
+  }
+  

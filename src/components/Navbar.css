@@ -1,0 +1,14 @@
+/* Navbar.css */
+
+/* Style for navbar */
+.navbar {
+    background-color: #f8f9fa; /* Light grey background */
+    padding: 1rem;
+  }
+  
+  /* Style for active links with underline */
+  .nav-link.active.underline {
+    text-decoration: underline; /* Underline on active links */
+    font-weight: bold; /* Optional: Make active links bold */
+  }
+  
